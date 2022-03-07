@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vedic2022
+- 👋 Hi, I’m @Amitabh Gupta
 - 👀 I’m interested in Data Scinces Application in Biotechnology & Healhcare
 - 🌱 I’m currently learning Transformers & Computer Vision
 - 💞️ I’m looking to collaborate on 
